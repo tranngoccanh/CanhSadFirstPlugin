@@ -1,0 +1,9 @@
+[general]
+name=PluginQueryBase
+description=A QGIS plugin to query and export data based on a rectangular area and attributes.
+version=1.0
+qgisMinimumVersion=3.0
+author=CanhSad
+email=canh.shrek2002@gmail.com
+repository=https://github.com/tranngoccanh/CanhSadFirstPlugin
+icon=canhsad_plugin.png
